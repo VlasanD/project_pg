@@ -1,0 +1,8 @@
+﻿  Camera.cpp
+  Mesh.cpp
+  Model3D.cpp
+  main.cpp
+D:\An_3\PG\L09\L09\main.cpp(662,38): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\An_3\PG\L09\L09\main.cpp(663,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Generating Code...
+  L09.vcxproj -> D:\An_3\PG\L09\x64\Debug\L09.exe
